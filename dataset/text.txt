@@ -1,0 +1,1 @@
+This is the file that contains both the test and training data. Here, the train and test data are classified into the files 0-9 inside train and test data folders
